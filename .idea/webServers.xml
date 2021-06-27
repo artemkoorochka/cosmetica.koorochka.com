@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="15306ee3-72a6-4393-8021-013c20f7be29" name="amaizing.com.ua" url="http://amaizing.com.ua">
+        <fileTransfer host="vh82.timeweb.ru" port="22" rootFolder="/home/a/aksoft/cosmetica.koorochka.com/public_html/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
